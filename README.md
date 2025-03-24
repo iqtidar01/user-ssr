@@ -20,8 +20,8 @@ This is a **user list page** built with **Next.js 15** using **Server-Side Rende
 
 ### **1. Clone the repository**
 
-git clone <repository_url>
-cd user-list-ssr
+git clone https://github.com/iqtidar01/user-ssr.git
+cd user-ssr
 
 ### **2. Install dependencies**
 npm install
