@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "description": "A passionate software developer.",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "description": "A creative UI/UX designer.",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "description": "A data scientist with expertise in AI.",
+      "image": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "description": "An experienced DevOps engineer.",
+      "image": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emily White",
+      "description": "A front-end developer with a passion for accessibility.",
+      "image": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "description": "Cybersecurity expert and ethical hacker.",
+      "image": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sophia Martinez",
+      "description": "Blockchain developer and smart contract auditor.",
+      "image": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "James Anderson",
+      "description": "Full-stack engineer specializing in microservices.",
+      "image": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Garcia",
+      "description": "Cloud architect and AWS expert.",
+      "image": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "William Taylor",
+      "description": "AI researcher and machine learning engineer.",
+      "image": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Emma Rodriguez",
+      "description": "Cybersecurity analyst and penetration tester.",
+      "image": "https://randomuser.me/api/portraits/women/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Daniel Lee",
+      "description": "Backend developer focused on distributed systems.",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ava Hall",
+      "description": "UI/UX designer with expertise in Figma.",
+      "image": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Matthew Scott",
+      "description": "Database engineer and SQL expert.",
+      "image": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Charlotte Green",
+      "description": "Technical writer and documentation specialist.",
+      "image": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ethan Lewis",
+      "description": "Software architect with expertise in cloud computing.",
+      "image": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Amelia Harris",
+      "description": "Mobile app developer for iOS and Android.",
+      "image": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mason King",
+      "description": "Embedded systems engineer and IoT expert.",
+      "image": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Harper Wright",
+      "description": "AI chatbot developer and conversational designer.",
+      "image": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Alexander Lopez",
+      "description": "Game developer specializing in Unity and Unreal Engine.",
+      "image": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Evelyn Adams",
+      "description": "Digital marketing strategist and SEO expert.",
+      "image": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Benjamin Nelson",
+      "description": "Cloud security engineer and DevSecOps specialist.",
+      "image": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Sofia Carter",
+      "description": "E-commerce specialist and Shopify developer.",
+      "image": "https://randomuser.me/api/portraits/women/23.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Henry Baker",
+      "description": "Full-stack JavaScript developer and React expert.",
+      "image": "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Liam Hernandez",
+      "description": "Networking and cybersecurity specialist.",
+      "image": "https://randomuser.me/api/portraits/men/25.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Mila Mitchell",
+      "description": "SEO expert and content strategist.",
+      "image": "https://randomuser.me/api/portraits/women/26.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Noah Perez",
+      "description": "Web performance optimization specialist.",
+      "image": "https://randomuser.me/api/portraits/men/27.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Isabella Roberts",
+      "description": "Agile coach and Scrum master.",
+      "image": "https://randomuser.me/api/portraits/women/28.jpg"
+    }
+  ]
+  
